@@ -30,11 +30,11 @@ public class U02aPitchersBattersApp {
       // https://bradleycodeu.github.io/apcsa/112_using_objects/U02aPitchersBatters/doc/index-all.html  
       // Print your answers to the following 2 questions... 
       System.out.println("Q1)   Which of the following names would make the best pitcher and why? 1) \"Tyler\" 2) \"Louie\" 3) \"Aaron\" 4) \"Steven\"");
-      // DONE 
-      System.out.println("1, Tyler would be the best pitcher because his name starts with a consonant and has 5 letters, which means he would throw a good pitch.");
+      // DONE
+      System.out.println("Louie would make the best pitcher because his name has 4 vowels and has 5 letters, which means he would throw a good pitch every other time.");
       System.out.println("Q2)   Sarah throws 10 pitches. How many of the pitches are GREAT?");
       // DONE
-      System.out.println("Sarah would throw 5 GREAT pitches because her name starts with a consonant and has 5 letters, which means she would throw a good pitch every other time.");
+      System.out.println("Sarah would throw 4");
       System.out.println("-=-=-=-=-=-=-=-=-PART 4");
       // Finally, simulate a series of three pitches and swings between pitcher 1 and batter 1. Don't forget to print each time.
       System.out.println("-=-=-=-=-=-=-=-=-");
